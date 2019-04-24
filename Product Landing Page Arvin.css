@@ -1,0 +1,84 @@
+html {
+    background: linear-gradient( transparent, black),url(https://www.pdvg.it/wp-content/uploads/2018/02/EVO-2018.jpg) no-repeat center center fixed;
+    background-size: cover;
+    overflow: hidden;
+    color: white;
+    font-family: 'Anton', sans-serif;
+    overflow: auto;    
+
+}
+
+#nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+nav {
+    text-align: center;
+    
+}
+
+#EVO-logo {
+    display: inline-block;
+    margin-right: 25px;
+
+}
+
+#main-title {
+    display: inline-block;
+}
+
+
+#main-title-container{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold; 
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#top-container {
+    margin-top: 100px;
+}
+
+li {
+    display: inline;
+}
+
+#top-container {
+    display: flex;
+    text-align: center;
+    
+    margin: 0 auto;
+    margin-bottom: 1.5em;
+    max-width: 1000px;
+    padding: 1em;
+
+}
+
+#left-side {
+    align-content: left;
+    margin-top: 15px;
+    width: 50%;
+
+}
+
+#right-side {
+    align-content: center;
+    margin-left: 125px;
+    text-align: justify;
+    
+}
+
+iframe {
+    width: 600px;
+    height: 350px;
+}
+
+a {
+    text-decoration: none; 
+    color: white;
+}
